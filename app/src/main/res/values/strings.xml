@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="title_activity_time_line">TimeLine</string>
+    <string name="OlhoNome">Olho Anonimo</string>
+    <string name="OlhoDescricao">Tome cuidado se sonhar comigo</string>
+    <string name="StevenNome">Steven</string>
+    <string name="StevenDescricao">Finjo ser feliz</string>
+    <string name="GokuNome">Goku</string>
+    <string name="GokuDescricao">Oi eu sou Goku</string>
+    <string name="Amigos">Amigos</string>
+    <string name="Nome">Nome</string>
+    <string name="Descricao">Descrição</string>
+    <string name="Descricao2">Escreva aqui sua Descrição</string>
+    <string name="timeline">Timeline</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="divulgacao">Divulgação</string>
+    <string name="Friends">Amigos</string>
+    <string name="Memes">+Memes</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="foto">Foto</string>
+</resources>
